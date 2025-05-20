@@ -2,6 +2,7 @@
 -- CREATE DATABASE parqueo_universitario;
 -- \c parqueo_universitario -- Conectarse a la base si estás en consola
 
+
 -- Tabla: tipo_usuario
 CREATE TABLE tipo_usuario (
     id_tipo_usuario INTEGER PRIMARY KEY,
