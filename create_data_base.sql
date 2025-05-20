@@ -22,11 +22,11 @@ ALTER USER parqueo_owner WITH PASSWORD '123456';
 /**
   Sentencia para crear una base de datos y asigna a un usuario como dueño
  */
-CREATE DATABASE parqueo WITH OWNER parqueo_owner;
+CREATE DATABASE parqueo_universitario WITH OWNER parqueo_owner;
 /**
   Sentencia a asignar todos los privilegios de una base de datos a un usuario
  */
-GRANT ALL PRIVILEGES ON DATABASE parqueo TO parqueo_owner;
+GRANT ALL PRIVILEGES ON DATABASE parqueo_universitario TO parqueo_owner;
 
 /**********************************************************************************************************************/
 /**

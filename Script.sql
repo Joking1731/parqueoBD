@@ -1,5 +1,5 @@
 -- Crear la base de datos (opcional)
-CREATE DATABASE parqueo;
+-- CREATE DATABASE parqueo_universitario;
 -- \c parqueo_universitario -- Conectarse a la base si estás en consola
 
 -- Tabla: tipo_usuario
